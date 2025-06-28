@@ -32,7 +32,7 @@ const App = () => {
                 fun.
               </p>
             </div>
-            
+
           </div>
 
           <div className="row-span-4 col-start-5 col-span-3">
