@@ -7,8 +7,8 @@ const NavBar = () => {
         <ul className="flex gap-4">
           <a className="hover:text-accent-b hover:underline" href="/">HOME</a>
           <a className="hover:text-accent-b hover:underline" href="/portfolio">PORTFOLIO</a>
-          <a className="hover:text-accent-b hover:underline" href="/blog">BLOG</a>
-          <a className="hover:text-accent-b hover:underline" href="/about-me">ABOUT</a>
+          <a className="hover:text-accent-g hover:underline" href="/blog">BLOG</a>
+          <a className="hover:text-accent-p hover:underline" href="/about-me">ABOUT</a>
         </ul>
       </div>
 
